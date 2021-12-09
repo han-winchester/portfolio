@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm run build`
+### `npm run deploy`
 
 Builds the app files for production then deploys to the gh-pages branch on github. Then refreshes the deployed page.
 
