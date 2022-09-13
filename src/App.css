@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  height: 100%
+  
 }
 
 .App-logo {
@@ -36,3 +38,17 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  margin-left: 44px;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-color: aqua;
+  min-height: 100vh;
+  background-image: -webkit-linear-gradient(to bottom right,rgb(48, 148, 161), rgb(252, 252, 252) 81.35%);
+	background-image: -moz-linear-gradient(to bottom right,rgb(48, 148, 161), rgb(252, 252, 252) 81.35%);
+	background-image: -o-linear-gradient(to bottom right,rgb(48, 148, 161), rgb(252, 252, 252) 81.35%);
+	background-image: linear-gradient(to bottom right,rgb(48, 148, 161), rgb(252, 252, 252) 81.35%);
+
+}
+
